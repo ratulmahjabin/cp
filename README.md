@@ -1,2 +1,2 @@
 # competitive-programming
-AMI RED CODER AMI CHAETA
+Solved problems for codeforces and code snippets for various algorithms and data structures for CP.
