@@ -1,2 +1,2 @@
-# cp
-Competitive Programming
+# competitive-programming
+AMI RED CODER AMI CHAETA
